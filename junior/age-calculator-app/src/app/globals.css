@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  --primary-purple-500: hsl(259, 100%, 65%);
+  --primary-red-400: hsl(0, 100%, 67%);
+
+  --neutral-white: hsl(0, 100%, 100%);
+  --neutral-grey-100: hsl(0, 0%, 94%);
+  --neutral-grey-200: hsl(0, 0%, 86%);
+  --neutral-grey-500: hsl(0, 1%, 44%);
+  --neutral-black: hsl(0, 0%, 0%);
+
+  --input-font-size: 2rem;
+}
+
+@theme {
+  --color-primary-purple-500: var(--primary-purple-500);
+  --color-primary-red-400: var(--primary-red-400);
+
+  --color-neutral-white: var(--neutral-white);
+  --color-neutral-grey-100: var(--neutral-grey-100);
+  --color-neutral-grey-200: var(--neutral-grey-200);
+  --color-neutral-grey-500: var(--neutral-grey-500);
+  --color-neutral-black: var(--neutral-black);
+
+  --text-input-size: var(--input-font-size);
+
+  --font-poppins: var(--font-poppins), sans-serif;
+
+  --animate-fade-in-up: fade-in-up 0.6s ease-out forwards;
+  
+  @keyframes fade-in-up {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+.no-arrows::-webkit-outer-spin-button,
+.no-arrows::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.no-arrows {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
