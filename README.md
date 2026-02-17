@@ -1,6 +1,6 @@
 # Frontend Mentor Challenges
 
-Welcome! This repository contains a collection of [Frontend Mentor](https://www.frontendmentor.io) challenges I have completed. Here, I showcase my web development skills, ranging from basic layouts to interactive applications.
+Welcome! This repository contains a collection of [Frontend Mentor](https://www.frontendmentor.io/profile/fermop) challenges I have completed. Here, I showcase my web development skills, ranging from basic layouts to interactive applications.
 
 ## 🛠️ Main Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
