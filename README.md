@@ -1,34 +1,63 @@
 # Frontend Mentor Challenges
 
-This is a repositoy where I have all the challenges I have completed from Frontend Mentor.
+Welcome! This repository contains a collection of [Frontend Mentor](https://www.frontendmentor.io) challenges I have completed. Here, I showcase my web development skills, ranging from basic layouts to interactive applications.
 
-## Newbie
-- [3-column preview card component](https://fermop.github.io/frontend_mentor/newbie/3-column_preview_card_component/). HTML | CSS
-- [Huddle landing page with a single introductory section](https://fermop.github.io/frontend_mentor/newbie/huddle_landing_page_with_a_single_introductory_section/). HTML | CSS
-- [QR code component](https://fermop.github.io/frontend_mentor/newbie/qr_code_component/). HTML | CSS
-- [Single price grid component](https://fermop.github.io/frontend_mentor/newbie/single_price_grid_component/). HTML | CSS
-- [Product preview card component](https://fermop.github.io/frontend_mentor/newbie/product_preview_card_component/). HTML | CSS
-- [Stats preview card component](https://fermop.github.io/frontend_mentor/newbie/stats_preview_card_component/). HTML | CSS
-- [Order summary component](https://fermop.github.io/frontend_mentor/newbie/order_summary_component/). HTML | CSS
-- [NFT preview card component](https://fermop.github.io/frontend_mentor/newbie/nft_preview_card_component/). HTML | CSS
-- [Profile card component](https://fermop.github.io/frontend_mentor/newbie/profile_card_component/). HTML | CSS
-- [Article preview component](https://fermop.github.io/frontend_mentor/newbie/article_preview_component/). HTML | CSS | JS
-- [Four card feature section](https://fermop.github.io/frontend_mentor/newbie/four_card_feature_section/). HTML | CSS
-- [Social proof section](https://fermop.github.io/frontend_mentor/newbie/social_proof_section/). HTML | CSS
-- [FAQ accordion card](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_card/). HTML | CSS | JS
-- [Results summary component](https://fermop.github.io/frontend_mentor/newbie/results_summary_component/). HTML | CSS
-- [Social links profile](https://fermop.github.io/frontend_mentor/newbie/social_links_profile/). HTML | CSS
-- [Recipe page](https://fermop.github.io/frontend_mentor/newbie/recipe_page/). HTML | CSS
-- [Blog preview card](https://fermop.github.io/frontend_mentor/newbie/blog_preview_card/). HTML | CSS
-- [FAQ accordion main](https://faq-accordion-main-azure.vercel.app/). VITE | VUE | TAILWIND
-- [Ping single column coming soon page](https://pingsinglecolumncomingsoonpage.vercel.app/). VITE | VUE | TAILWIND
-- [Intro component with sign-up form](https://introcomponentwithsignupform.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
-- [Interactive rating component](https://interactiveratingcomponent-steel.vercel.app/). VITE | VUE | TAILWIND
-- [Base apparel coming soon page](https://baseapparelcomingsoonpage-iota.vercel.app/). VITE | VUE | TAILWIND
+## 🛠️ Main Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-## Junior
-- [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
-- [News homepage](https://fermop.github.io/frontend_mentor/junior/news_homepage/). HTML | CSS | JS
-- [Advice generator app](https://advicegeneratorapp-five.vercel.app/). VITE | VUE | TAILWIND | API
-- [Browser extension manager UI](https://frontend-mentor-coral-ten.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
-- [Newsletter sign-up with success message](https://newslettersign-up.vercel.app/). VITE | VUE | TAILWIND
+---
+
+## 🐣 Newbie
+Perfect challenges for sharpening basic CSS and responsive design skills.
+
+| Challenge | Tech Stack | Demo | Code |
+| :--- | :--- | :---: | :---: |
+| **3-column preview card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/3-column-preview-card-component/) | [📂 Repo](https://github.com/fermop/3-column-preview-card-component) |
+| **Huddle landing page** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/huddle-landing-page-with-a-single-introductory-section/) | [📂 Repo](https://github.com/fermop/huddle-landing-page-with-a-single-introductory-section) |
+| **QR code component** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/qr-code-component/) | [📂 Repo](https://github.com/fermop/qr-code-component) |
+| **Single price grid** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/single-price-grid-component/) | [📂 Repo](https://github.com/fermop/single-price-grid-component) |
+| **Product preview card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/product-preview-card-component/) | [📂 Repo](https://github.com/fermop/product-preview-card-component) |
+| **Stats preview card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/stats-preview-card-component/) | [📂 Repo](https://github.com/fermop/stats-preview-card-component) |
+| **Order summary** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/order-summary-component/) | [📂 Repo](https://github.com/fermop/order-summary-component) |
+| **NFT preview card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/nft-preview-card-component/) | [📂 Repo](https://github.com/fermop/nft-preview-card-component) |
+| **Profile card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/profile-card-component/) | [📂 Repo](https://github.com/fermop/profile-card-component) |
+| **Article preview** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🚀 Live](https://fermop.github.io/article-preview-component/) | [📂 Repo](https://github.com/fermop/article-preview-component) |
+| **Four card feature** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/four-card-feature-section/) | [📂 Repo](https://github.com/fermop/four-card-feature-section) |
+| **Social proof** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/social-proof-section/) | [📂 Repo](https://github.com/fermop/social-proof-section) |
+| **FAQ accordion card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🚀 Live](https://fermop.github.io/faq-accordion-card/) | [📂 Repo](https://github.com/fermop/faq-accordion-card) |
+| **Results summary** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/results-summary-component/) | [📂 Repo](https://github.com/fermop/results-summary-component) |
+| **Social links profile** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/social-links-profile/) | [📂 Repo](https://github.com/fermop/social-links-profile) |
+| **Recipe page** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/recipe-page/) | [📂 Repo](https://github.com/fermop/recipe-page) |
+| **Blog preview card** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/blog-preview-card/) | [📂 Repo](https://github.com/fermop/blog-preview-card) |
+| **FAQ accordion main** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-faq-accordion-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/faq-accordion) |
+| **Ping single column** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-ping-single-column-coming-soon-page-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/ping-single-column-coming-soon-page-vue) |
+| **Intro component** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-intro-component-with-sign-up-form-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/intro-component-with-sign-up-form-vue) |
+| **Interactive rating** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-interactive-rating-component-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/interactive-rating-component-vue) |
+| **Base apparel** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-base-apparel-coming-soon-page-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/base-apparel-coming-soon-page-vue) |
+
+## 💻 Junior
+Challenges requiring JavaScript logic, API integration, or complex layouts.
+
+| Challenge | Tech Stack | Demo | Code |
+| :--- | :--- | :---: | :---: |
+| **Testimonials grid** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [🚀 Live](https://fermop.github.io/testimonials-grid-section/) | [📂 Repo](https://github.com/fermop/testimonials-grid-section) |
+| **News homepage** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🚀 Live](https://fermop.github.io/news-homepage/) | [📂 Repo](https://github.com/fermop/news-homepage) |
+| **Advice generator** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-advice-generator-app-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/advice-generator-app-vue) |
+| **Browser extension UI** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-browser-extension-manager-ui-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/browser-extension-manager-ui-vue) |
+| **Newsletter sign-up** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://fermop-newsletter-sign-up-with-success-message-vue.vercel.app/) | [📂 Repo](https://github.com/fermop/newsletter-sign-up-with-success-message-vue) |
+| **Age calculator app** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [🚀 Live](https://age-calculator-app-seven-eta.vercel.app/) | [📂 Repo](https://github.com/fermop/age-calculator-app) |
+| **FAQ accordion v2** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) | [🚀 Live](https://fermop-faq-accordion-nextjs.vercel.app/) | [📂 Repo](https://github.com/fermop/faq-accordion-nextjs) |
+| **Advice generator app v2** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) | [🚀 Live](https://fermop-advice-generator-app-nextjs.vercel.app/) | [📂 Repo](https://github.com/fermop/advice-generator-app-nextjs) |
+| **Newsletter sign-up v2** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) | [🚀 Live](https://fermop-newsletter-sign-up-form-with-success-message-nextjs.vercel.app/) | [📂 Repo](https://github.com/fermop/newsletter-sign-up-form-with-success-message-nextjs) |
+| **Contact form** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) | [🚀 Live](https://fermop-contact-form-nextjs.vercel.app/) | [📂 Repo](https://github.com/fermop/contact-form-nextjs) |
+
+---
+<div align="center">
+  By <a href="https://github.com/fermop">Fernando Pérez</a>
+</div>
